@@ -1,0 +1,4 @@
+ul.subtitle li {
+    display: inline-block;
+    list-style-type: none;
+}
